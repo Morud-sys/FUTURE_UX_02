@@ -1,5 +1,5 @@
 # FUTURE_UX_02
-# Skinderm Dermatology App – UI/UX Design Case Study
+# Skinderm Dermatology App
 
 ## Overview
 
