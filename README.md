@@ -34,7 +34,7 @@ This project provides a mobile-first solution that simplifies appointment schedu
 
 ## Features
 
-* Onboarding / Login
+* Login
 * Treatment Categories
 * Treatment Details
 * Date & Time Slot Selection
@@ -87,8 +87,7 @@ The interface uses:
 ## Tools Used
 
 * Figma
-* Google Fonts
-* Material Symbols Icons
+* Lucide Icons
 
 ---
 
